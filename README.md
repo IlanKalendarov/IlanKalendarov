@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2>Ilan Kalendarov</h2>
 
-<!--
-**ilan199929/ilan199929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/ilan-kalendarov-4826741a0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/IKalendarov" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+
+
+
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=ilan199929&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false">
+
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilan199929&hide=html&theme=tokyonight&layout=compact">
+
+<p><em>Red Teamer @ Israeli Air Force<br>
