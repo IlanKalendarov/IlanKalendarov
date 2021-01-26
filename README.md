@@ -10,6 +10,6 @@
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=ilan199929&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false">
 
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilan199929&hide=html&theme=tokyonight&layout=compact">
+
 
 <p><em>Red Teamer @ Israeli Air Force<br>
