@@ -4,6 +4,8 @@
 
 <a href="https://twitter.com/IKalendarov" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
 
+Personal blog - <https://ilankalendarov.github.io/>
+
 ## Stats
 
 
