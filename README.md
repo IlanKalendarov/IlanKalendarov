@@ -13,5 +13,3 @@ Personal blog - <https://ilankalendarov.github.io/>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=IlanKalendarov&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false">
 
 
-
-<p><em>Red Teamer @ Israeli Air Force<br>
