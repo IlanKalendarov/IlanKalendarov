@@ -8,8 +8,4 @@ Personal blog - <https://ilankalendarov.github.io/>
 
 ## Stats
 
-
-
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=IlanKalendarov&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false">
-
-
+![Ilan's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=IlanKalendarov&cc=1a1b27&tc=38bdae&ic=bf91f3&bc=ffff)
